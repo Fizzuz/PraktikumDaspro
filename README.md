@@ -1,1 +1,1 @@
-Hello GitHub, ini adla
+Hello GitHub, ini adalah repository pertama
